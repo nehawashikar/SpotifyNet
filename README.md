@@ -1,5 +1,4 @@
 # SpotifyNet
-Data analysis done to draw conclusions about artist influence, collaboration patterns, and diversity. Based on Spotify’s Rap Caviar playlist.
 
 <p> 
 • Developed a 21 page social network analysis on a network of artists featured in Spotify’s Rap Caviar playlist <br>
